@@ -13,39 +13,39 @@ This is the webpage displayed at full screen, my time is currenly 4 pm; the grey
 
 You can input a task into the Present hour textarea on the webpage  
     ```md
-    ![alt text](assets/images/Screenshot2.png)
+    ![alt text](Assets/images/Screenshot2.png)
 
 Selecting the save icon to the right side of the text will save it to the page;
     ```md
-    ![alt text](assets/images/Screenshot3.png)
+    ![alt text](Assets/images/Screenshot3.png)
 
 If we open the console, we can see that saving the text input also console logs what the user input. 
     ```md
-    ![alt text](assets/images/Screenshot4.png)
+    ![alt text](Assets/images/Screenshot4.png)
 
 Additionally, we can add more tasks into the future hour textarea of our planners. 
     ```md
-    ![alt text](assets/images/Screenshot5.png)
+    ![alt text](Assets/images/Screenshot5.png)
 
 You can also save task values input for the future hours as well
     ```md
-    ![alt text](assets/images/Screenshot6.png)
+    ![alt text](Assets/images/Screenshot6.png)
 
 You can also add tasks to hours that have passed in the day in case you forgot to write it down. 
     ```md
-    ![alt text](assets/images/Screenshot7.png)
+    ![alt text](Assets/images/Screenshot7.png)
 
 Saving task value for past task input
     ```md
-    ![alt text](assets/images/Screenshot8.png)
+    ![alt text](Assets/images/Screenshot8.png)
 
 Past present and future task values will remain on the webpage even if you reload it!!
     ```md
-    ![alt text](assets/images/Screenshot9.png)
+    ![alt text](Assets/images/Screenshot9.png)
 
 The webpage is also mobile compatible!
     ```md
-    ![alt text](assets/images/Screenshot10.png)
+    ![alt text](Assets/images/Screenshot10.png)
 
 
 
